@@ -1,0 +1,6 @@
+- Sửa máy in
+- Xoay 0.5 vòng gặp tải cứng tuyệt đối, đo lực tác động lên tải
+- Tính bền trục dẫn hướng
+- Tìm cơ cấu mắt châu
+- Viết cơ sở lý thuyết - thêm 1 bậc tự do
+https://www.youtube.com/watch?v=bKqYYjGzpCY&t=223s
